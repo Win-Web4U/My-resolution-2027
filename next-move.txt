@@ -1,4 +1,5 @@
-*2027 to do list*
+Adding what to do next :
 
-- Mulai menyemai tanaman/belajar langsung
-- Langsung build apps sembari mempelajari GIT
+*2027*
+- Belajar Github & GIT
+- Belajar bertani untuk masa depan karena saya tidak ingin kerja bersama orang selamanya (InsyaAllah)
