@@ -1,1 +1,4 @@
-Adding what to do next
+*2027 to do list*
+
+- Mulai menyemai tanaman/belajar langsung
+- Langsung build apps sembari mempelajari GIT
